@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800&family=Sora:wght@300&display=swap');
+
+
+html,
+body {
+    width: 100%;
+    overflow-x: hidden!important;
+    scroll-behavior: smooth;
+    word-spacing: 1px;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    transition: scroll-behavior .4s ease-in-out;
+}
+
+.black-button{
+    border-radius: 8px;
+    background: #130204;
+    color: white;
+    font-size: 14px;
+    height: 52px;
+    padding: 1px 25px 1px;
+    box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+}
+
+body {
+    font-family: 'Maven Pro', sans-serif!Important;
+}
+
+
+
+p, span, div {
+    font-family: 'Maven Pro', sans-serif!Important;
+}
+
+.head-text {
+    color: #130204;
+    font-size: 28px;
+}
+
+.p-datatable .p-datatable-thead > tr > th {
+    text-align: left;
+    padding: 1rem 1rem;
+    font-size: 14px!important;
+    border-bottom: 1px solid #EAECF0!important;
+    border-width: 0 0 1px 0;
+    font-weight: 600!important;
+    color:  #475467!important;
+    background:  #F2F4F7!important;
+    transition: box-shadow 0.2s;
+}
+
+.p-datatable .p-datatable-tbody > tr > td {
+    text-align: left;
+    border-bottom: 1px solid #EAECF0!Important;
+    border-width: 0 0 0.5px 0;
+    padding: 24px 20px 24px!important;
+    color:  #475467!Important;
+    font-size: 14px!important;
+}
+
+
+label {
+    color: #667085;
+    font-size: 14px;
+}
+
+.input {
+    border-radius: 8px;
+    border: 1px solid var(--neutral-100, #E7EAEE);
+    background: #FBFBFB;
+}
+
+.p-paginator {
+    display: flex;
+    align-items: end!important;
+    justify-content: end!important;
+    flex-wrap: wrap;
+    font-family: 'Maven Pro', sans-serif!Important;
+}
+
+.p-inputtext {
+    font-family: 'Maven Pro', sans-serif!Important;
+    font-size: 14px;
+}
+
+/* .p-component-overlay {
+    background-color: transparent!important;
+    transition-duration: 0.2s;
+}
+
+.p-dialog .p-dialog-content {
+    background: none!important;
+    color: #495057;
+     padding: 0!important;
+}
+
+.p-dialog .p-dialog-header {
+    padding: 0!important;
+} */
+
+
+[type=checkbox], [type=radio] {
+
+
+    background-color: #fff;
+    background-origin: border-box;
+    border-color: #0B2970;
+    border-width: 1px;
+    color: #0B2970;
+    display: inline-block;
+    flex-shrink: 0;
+    height: 1rem;
+    padding: 0;
+
+    width: 1rem;
+}
+
+
+.p-progressbar {
+    border: 0 none;
+    height: 12px!important;
+    background: #dee2e6;
+    border-radius: 6px;
+}
+
+.p-progressbar .p-progressbar-value {
+    border: 0 none;
+    margin: 0;
+    background: var(--primary-blue-800, #06163C)!Important;
+}
+
+
+.p-sidebar {
+    background: #ffffff;
+    color: #495057;
+    border: 0 none;
+    box-shadow: none!important;
+}
+
+.p-sidebar-right .p-sidebar {
+    width: 700px!important;
+    height: 100%;
+}
+
+.p-datepicker {
+    padding: 0.5rem;
+    background: #ffffff;
+    color: #495057;
+    border: none!important;
+    border-radius: 6px;
+    width: 480px!important;
+    height: 300px!important;
+}
+
