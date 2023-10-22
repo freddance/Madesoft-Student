@@ -6,7 +6,7 @@
         <div class=" " style="padding: 16px;">
           <div class=" ">
             <div class="">
-              <img src="~assets/images/Madesoft-logo.png" class="w-[138px]" alt="">
+              <img src="~assets/images/madesoft-logo.png" class="w-[138px]" alt="">
             </div>
           </div>
         </div>
