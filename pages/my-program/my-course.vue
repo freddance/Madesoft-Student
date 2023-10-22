@@ -39,7 +39,9 @@
 
         <div style="background: #F5F5F5;" class="mt-10">
           <div class="grid grid-cols-3 px-6 py-10">
-            <div class="col-span-2"><img src="~assets/images/diagram.svg" class="" alt=""></div>
+            <div class="col-span-2">
+<!--              <img src="~assets/images/diagram.svg" class="" alt="">-->
+            </div>
 
             <div class="pt-28">
               These diagram by the left depicts a typical case where things
