@@ -72,8 +72,8 @@
                 Edit
               </span>
                 </div>
-                <img src="~assets/images/times-Icons.svg" class="flex justify-end ml-auto cursor-pointer relative bottom-1"
-                     @click="OptionsModal = false" alt="">
+<!--                <img src="~assets/images/times-Icons.svg" class="flex justify-end ml-auto cursor-pointer relative bottom-1"-->
+<!--                     @click="OptionsModal = false" alt="">-->
               </div>
             </div>
 
