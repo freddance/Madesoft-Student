@@ -154,7 +154,7 @@ import {useAsset} from "~/composables/useAsset";
 const routeList = [
   {
     names: ['index'],
-    route: '/',
+    route: '/dashboard/',
     title: 'Dashboard',
     icon: '/dashboard.svg',
   },
