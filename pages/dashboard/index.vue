@@ -61,7 +61,7 @@
 
         <div class="col-span-2">
           <h1 class="font-medium text-lg">Upcoming Class</h1>
-          <div class="attendance flex p-4 mt-4">
+          <div class="attendance flex p-4 mt-14">
             <div class="time">
               9:00 am
             </div>
