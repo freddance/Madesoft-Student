@@ -9,6 +9,8 @@ Project Not completed.
 Built with 
 💻  Nuxt 3 & Tailwind css
 
+staging link 👇🏻
+
 https://madesoft-student.vercel.app/
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
