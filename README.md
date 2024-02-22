@@ -6,7 +6,8 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 Project Not completed.
 
-Built with Nuxt 3 & Tailwind css
+Built with 
+💻  Nuxt 3 & Tailwind css
 
 https://madesoft-student.vercel.app/
 
